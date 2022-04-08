@@ -1,6 +1,8 @@
-<img align="center" style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/20528507?v=4" />
+
+<p align="center"><img style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/20528507?v=4" /></p>
+
 <h1 align="center">Hey 👋, I'm Xavi aka Emph</h1>
-<h3 align="center">I'm an avid developer who is also interested in NFTs, Cryptocurrencies and Blockchain!</h3>
+<h3 align="center">I'm an avid & polyvalent developer who is also interested in NFTs, Cryptocurrencies and Blockchain!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xavigc7&style=flat-square" alt="xavigc7" /> </p>
 
