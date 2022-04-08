@@ -1,4 +1,4 @@
-<center><img align="center" style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/20528507?v=4" /></center>
+<img align="center" style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/20528507?v=4" />
 <h1 align="center">Hey 👋, I'm Xavi aka Emph</h1>
 <h3 align="center">I'm an avid developer who is also interested in NFTs, Cryptocurrencies and Blockchain!</h3>
 
