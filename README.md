@@ -12,4 +12,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xavigc7&show_icons=true" alt="xavigc7" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xavigc7" alt="Emph" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavigc7)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavigc7" alt="Emph" /></p>
