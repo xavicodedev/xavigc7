@@ -7,8 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xavigc7&style=flat-square" alt="xavigc7" /> </p>
  
-- 👨‍💻 Visit my site **[https://mremph.eth.link](https://mrmeph.eth.link)** WORK IN PROGRESS
-- 📬 Contact me on discord; Emph#0952
+- 📬 Contact me on discord; emph#8840
 
 <br>
 <h1 align="center">Languages I work with</h1>
